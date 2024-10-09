@@ -1,0 +1,2 @@
+# myfirstionicApp
+Ionic with Angular
